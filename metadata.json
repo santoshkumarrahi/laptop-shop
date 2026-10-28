@@ -1,0 +1,6 @@
+{
+  "name": "NexTech - Premium Laptops & Electronics Store",
+  "description": "High-end laptop and consumer electronics e-commerce store with full dynamic catalog and comprehensive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
